@@ -19,7 +19,6 @@ The Daily Read is a modern, multi-page blog website built with **Next.js** and *
 - **Next.js** - React framework for routing and web application development.
 - **React** - Component-based user interface development.
 - **JavaScript** - Application logic and data handling.
-- **TypeScript** - Used in TypeScript-based application files.
 - **CSS** - Styling and responsive layouts.
 - **Git and GitHub** - Version control and project hosting.
 
